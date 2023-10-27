@@ -1,0 +1,510 @@
+1698398096145	geckodriver	INFO	Listening on 127.0.0.1:61099
+1698398099233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileC6scJf"
+1698398144268	geckodriver	INFO	Listening on 127.0.0.1:61151
+1698398147319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileUU3lp4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698398148441	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698398148621	Marionette	INFO	Listening on port 61162
+Read port: 61162
+1698398149584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 685))
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/advanced-custom-fields/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=1698341141, line 2: ReferenceError: Color is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1698341141, line 1: ReferenceError: grecaptcha is not defined
+1698398178620	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY, line 434: Script terminated by timeout at:
+aa.qh@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:434:42
+get@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:432:119
+aa.Jf@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:434:172
+aa.Xm@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:433:449
+aa.Fm@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:463:27
+aa.Em/k/<@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:461:121
+Qj@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:240:342
+dk@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:243:350
+k@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:461:107
+c@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:288:169
+xn@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:289:269
+aa.Em@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:461:144
+c@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:479:903
+Lw@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:371:298
+Kw.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:374:263
+Kw.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:372:207
+Dw@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:369:434
+$F/<@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:480:153
+aa.Ek/<@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:433:126
+aa.Ek/c/<@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:432:420
+
+1698398204131	Marionette	INFO	Stopped listening on port 61162
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/CrashManager.sys.mjs, line 922: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1698398206030	geckodriver	INFO	Listening on 127.0.0.1:61247
+1698398209095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileNGBw4P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698398209902	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698398210030	Marionette	INFO	Listening on port 61257
+Read port: 61257
+1698398210799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 685))
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/advanced-custom-fields/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=1698341141, line 2: ReferenceError: Color is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1698341141, line 1: ReferenceError: grecaptcha is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY, line 434: Script terminated by timeout at:
+aa.qh@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:434:89
+get@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:432:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:432:87
+aa.Ek/c/<@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:432:412
+
+1698398234265	Marionette	INFO	Stopped listening on port 61257
+Dynamically enable window occlusion 1
+1698398401911	geckodriver	INFO	Listening on 127.0.0.1:61361
+1698398404947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilePrF4VX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698398405550	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698398405668	Marionette	INFO	Listening on port 61371
+Read port: 61371
+1698398406350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/advanced-custom-fields/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=1698341141, line 2: ReferenceError: Color is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1698341141, line 1: ReferenceError: grecaptcha is not defined
+1698398435807	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY, line 325: Script terminated by timeout at:
+setMetadata@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:325:1562
+iH/Nz.h.h.M@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:497:196
+md/f/q<@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:125:428
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:123:1181
+wd@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:134:67
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:123:1181
+fb@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:108:576
+eb@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:108:375
+Td/<@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:142:384
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:123:1181
+FG/<@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:488:486
+Gp@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:326:231
+aa.Fm@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:475:27
+aa.Em/k/<@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:461:121
+Qj@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:240:342
+dk@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:243:350
+k@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:461:107
+c@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:288:169
+xn@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:289:269
+aa.Em@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:461:144
+c@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:479:903
+Lw@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:371:298
+Kw.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:374:263
+Kw.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:372:207
+Dw@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:369:434
+$F/<@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:480:153
+aa.Ek/<@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:433:126
+aa.Ek/c/<@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:432:420
+
+1698398477516	Marionette	INFO	Stopped listening on port 61371
+Dynamically enable window occlusion 1
+1698409239945	geckodriver	INFO	Listening on 127.0.0.1:61652
+1698409242982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileSwhrRy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698409243569	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698409243694	Marionette	INFO	Listening on port 61662
+Read port: 61662
+1698409244184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698409273849	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698409283035	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1698409286041	Marionette	INFO	Stopped listening on port 61662
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/nimbus-web-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1698409291846	geckodriver	INFO	Listening on 127.0.0.1:61711
+1698409294991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilepURXcI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698409295554	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698409295672	Marionette	INFO	Listening on port 61725
+Read port: 61725
+1698409296391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698409325600	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/advanced-custom-fields/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=1698341141, line 2: ReferenceError: Color is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1698341141, line 1: ReferenceError: grecaptcha is not defined
+1698409361819	Marionette	INFO	Stopped listening on port 61725
+Dynamically enable window occlusion 1
+1698409385637	geckodriver	INFO	Listening on 127.0.0.1:61824
+1698409388669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilezFyvuI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698409389225	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698409389346	Marionette	INFO	Listening on port 61834
+Read port: 61834
+1698409390080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/advanced-custom-fields/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=1698341141, line 2: ReferenceError: Color is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1698341141, line 1: ReferenceError: grecaptcha is not defined
+1698409419359	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698409426419	Marionette	INFO	Stopped listening on port 61834
+JavaScript warning: https://www.psegameshop.com/wp-content/plugins/hurrytimer/assets/js/jquery.countdown.min.js?ver=2.2.0, line 22: Script terminated by timeout at:
+start/this.interval<@https://www.psegameshop.com/wp-content/plugins/hurrytimer/assets/js/jquery.countdown.min.js?ver=2.2.0:22:1987
+
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/mobile-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1698410036139	geckodriver	INFO	Listening on 127.0.0.1:61958
+1698410039156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileW9tdaQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698410039758	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698410039888	Marionette	INFO	Listening on port 61969
+Read port: 61969
+1698410040714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698410069825	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/advanced-custom-fields/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=1698341141, line 2: ReferenceError: Color is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1698341141, line 1: ReferenceError: grecaptcha is not defined
+1698410152946	Marionette	INFO	Stopped listening on port 61969
+Dynamically enable window occlusion 1
+1698410209463	geckodriver	INFO	Listening on 127.0.0.1:62084
+1698410212514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilewtdYBh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698410213077	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698410213202	Marionette	INFO	Listening on port 62094
+Read port: 62094
+1698410213911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/advanced-custom-fields/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=1698341141, line 2: ReferenceError: Color is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1698341141, line 1: ReferenceError: grecaptcha is not defined
+1698410243120	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:66750
+
+1698410341292	Marionette	INFO	Stopped listening on port 62094
+Dynamically enable window occlusion 1
+1698410381921	geckodriver	INFO	Listening on 127.0.0.1:62177
+1698410384958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilelbxVvL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698410385453	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698410385571	Marionette	INFO	Listening on port 62187
+Read port: 62187
+1698410386359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/advanced-custom-fields/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=1698341141, line 2: ReferenceError: Color is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1698341141, line 1: ReferenceError: grecaptcha is not defined
+1698410415755	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-B2D14MJRBF&l=dataLayer&cx=c, line 161: Script terminated by timeout at:
+Sa@https://www.googletagmanager.com/gtag/js?id=G-B2D14MJRBF&l=dataLayer&cx=c:161:437
+ip@https://www.googletagmanager.com/gtag/js?id=G-B2D14MJRBF&l=dataLayer&cx=c:380:423
+Dw@https://www.googletagmanager.com/gtag/js?id=G-B2D14MJRBF&l=dataLayer&cx=c:430:411
+$F/<@https://www.googletagmanager.com/gtag/js?id=G-B2D14MJRBF&l=dataLayer&cx=c:568:153
+aa.Ek/<@https://www.googletagmanager.com/gtag/js?id=G-B2D14MJRBF&l=dataLayer&cx=c:521:126
+aa.Ek/c/<@https://www.googletagmanager.com/gtag/js?id=G-B2D14MJRBF&l=dataLayer&cx=c:520:420
+
+1698410673229	Marionette	INFO	Stopped listening on port 62187
+Dynamically enable window occlusion 1
+rror: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1698410521486	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698410558575	Marionette	INFO	Stopped listening on port 62268
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1698410565514	geckodriver	INFO	Listening on 127.0.0.1:62316
+1698410568545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileCjaCPt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698410569099	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698410569222	Marionette	INFO	Listening on port 62326
+Read port: 62326
+1698410570096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/advanced-custom-fields/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=1698341141, line 2: ReferenceError: Color is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1698341141, line 1: ReferenceError: grecaptcha is not defined
+1698410599256	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:66750
+
+1698410675535	Marionette	INFO	Stopped listening on port 62326
+Dynamically enable window occlusion 1
+1698410696018	geckodriver	INFO	Listening on 127.0.0.1:62413
+1698410699047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileuPiWjw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698410699553	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698410699671	Marionette	INFO	Listening on port 62423
+Read port: 62423
+1698410700401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698410731580	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698410740646	Marionette	INFO	Stopped listening on port 62423
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1698410746857	geckodriver	INFO	Listening on 127.0.0.1:62462
+1698410749901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileDQTEgY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698410750401	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698410750518	Marionette	INFO	Listening on port 62472
+Read port: 62472
+1698410751197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 685))
+1698410781107	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+console.error: ({})
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 321))
+JavaScript error: https://www.psegameshop.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.2, line 9: TypeError: o.widget is not a function
+JavaScript error: https://www.psegameshop.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2, line 9: TypeError: o.widget is not a function
+JavaScript error: https://www.psegameshop.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2, line 9: TypeError: u.ui is undefined
+JavaScript error: https://www.psegameshop.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2, line 9: TypeError: z.ui is undefined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/advanced-custom-fields/assets/inc/timepicker/jquery-ui-timepicker-addon.min.js?ver=1.6.1, line 1: TypeError: $.ui is undefined
+JavaScript error: https://www.psegameshop.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2, line 9: TypeError: P.ui is undefined
+JavaScript error: https://www.psegameshop.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2, line 9: TypeError: o.ui is undefined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/advanced-custom-fields/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=1698341141, line 2: ReferenceError: Color is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1698341141, line 1: ReferenceError: grecaptcha is not defined
+JavaScript error: https://www.psegameshop.com/wp-admin/js/iris.min.js?ver=1.0.7, line 5: TypeError: a.widget is not a function
+JavaScript error: https://www.psegameshop.com/wp-admin/js/color-picker.min.js?ver=6.3.2, line 2: TypeError: i.widget is not a function
+1698410880671	Marionette	INFO	Stopped listening on port 62472
+Dynamically enable window occlusion 1
+1698410928304	geckodriver	INFO	Listening on 127.0.0.1:62630
+1698410931348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile19Bp9O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698410931862	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698410931991	Marionette	INFO	Listening on port 62640
+Read port: 62640
+1698410932600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/advanced-custom-fields/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=1698341141, line 2: ReferenceError: Color is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1698341141, line 1: ReferenceError: grecaptcha is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.psegameshop.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.psegameshop.com."
+1698410961885	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698410965499	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1698411057896	Marionette	INFO	Stopped listening on port 62640
+Dynamically enable window occlusion 1
+1698411171951	geckodriver	INFO	Listening on 127.0.0.1:62780
+1698411174995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilet8WHSv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698411175505	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698411175622	Marionette	INFO	Listening on port 62790
+Read port: 62790
+1698411176319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698411208326	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+console.error: ({})
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/biteship/public/js/biteship-public.js?ver=1698341141, line 19: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/biteship/public/js/jquery-ui.min.js?ver=2.2.18, line 6: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2, line 9: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.2, line 9: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/chaty/js/cht-front-script.js?ver=1698341141, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.2.1, line 14: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.2.1, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.2.1, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/hurrytimer/assets/js/jquery.countdown.min.js?ver=2.2.0, line 22: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/hurrytimer/assets/js/hurrytimer.js?ver=1698341141, line 43: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/themes/flatsome/assets/js/flatsome.js?ver=1698341141, line 1: TypeError: e is undefined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/themes/flatsome/inc/integrations/wp-rocket/flatsome-wp-rocket.js?ver=1698341141, line 1: ReferenceError: Flatsome is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/themes/flatsome/inc/integrations/wc-yith-wishlist/wishlist.js?ver=1698341141, line 1: ReferenceError: Flatsome is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=1698341141, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=8.2.1, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/kali-forms/public/assets/submissions/frontend/js/kaliforms-submissions.js?ver=1698341141, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=1698341141, line 1: TypeError: t is undefined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=5.5.2, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/add-search-to-menu/public/js/ivory-ajax-search.min.js?ver=5.5.2, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js?ver=1.2.0, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.min.js?ver=3.26.0, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=8.2.1, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2, line 9: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2, line 9: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2, line 9: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/advanced-custom-fields/assets/build/js/acf.min.js?ver=6.2.1, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/advanced-custom-fields/assets/build/js/acf-input.min.js?ver=6.2.1, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/woocommerce/assets/js/select2/select2.full.min.js?ver=4.0.3-wc.8.2.1, line 8: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2, line 9: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/plugins/advanced-custom-fields/assets/inc/timepicker/jquery-ui-timepicker-addon.min.js?ver=1.6.1, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2, line 9: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2, line 9: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=1698341141, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/advanced-custom-fields/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=1698341141, line 28: ReferenceError: jQuery is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1698341141, line 1: ReferenceError: grecaptcha is not defined
+JavaScript error: https://www.psegameshop.com/, line 446: TypeError: jQuery is undefined
+JavaScript error: https://www.psegameshop.com/ line 3 > injectedScript, line 2: ReferenceError: acf is not defined
+JavaScript error: https://www.psegameshop.com/ line 3 > injectedScript, line 2: ReferenceError: acf is not defined
+JavaScript error: https://www.psegameshop.com/wp-admin/js/iris.min.js?ver=1.0.7, line 5: TypeError: a is undefined
+JavaScript error: https://www.psegameshop.com/wp-admin/js/color-picker.min.js?ver=6.3.2, line 2: TypeError: i is undefined
+JavaScript error: https://www.psegameshop.com/ line 3 > injectedScript, line 3: TypeError: $ is not a function
+JavaScript error: https://www.psegameshop.com/ line 3 > injectedScript, line 3: TypeError: $ is not a function
+JavaScript error: https://www.psegameshop.com/ line 3 > injectedScript, line 2: TypeError: jQuery is not a function
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY, line 372: Script terminated by timeout at:
+Kw.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:372:54
+Dw@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:369:434
+$F/<@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:480:153
+aa.Ek/<@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:433:126
+aa.Ek/c/<@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:432:420
+
+1698411308350	Marionette	INFO	Stopped listening on port 62790
+Dynamically enable window occlusion 1
+1698411374484	geckodriver	INFO	Listening on 127.0.0.1:62884
+1698411377542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileN7Yl30"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698411378061	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698411378185	Marionette	INFO	Listening on port 62894
+Read port: 62894
+1698411378892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698411408207	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/advanced-custom-fields/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=1698341141, line 2: ReferenceError: Color is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1698341141, line 1: ReferenceError: grecaptcha is not defined
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 321))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCTdHQ-w7UOKQxyRDkfJzdwqp1fCjZYWVU&libraries=places&_=1698411416411, line 164: Error: Could not load "places_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCTdHQ-w7UOKQxyRDkfJzdwqp1fCjZYWVU&libraries=places&_=1698411416411, line 164: Error: Could not load "marker".
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCTdHQ-w7UOKQxyRDkfJzdwqp1fCjZYWVU&libraries=places&_=1698411416411, line 164: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCTdHQ-w7UOKQxyRDkfJzdwqp1fCjZYWVU&libraries=places&_=1698411416411, line 164: Error: Could not load "util".
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY&l=dataLayer&cx=c, line 110: Script terminated by timeout at:
+mb@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY&l=dataLayer&cx=c:110:266
+C@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY&l=dataLayer&cx=c:111:79
+Lw@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY&l=dataLayer&cx=c:370:242
+Kw.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY&l=dataLayer&cx=c:374:263
+Kw.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY&l=dataLayer&cx=c:372:207
+Dw@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY&l=dataLayer&cx=c:369:434
+$F/<@https://www.googJavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/advanced-custom-fields/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=1698341141, line 2: ReferenceError: Color is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1698341141, line 1: ReferenceError: grecaptcha is not defined
+1698411525262	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.psegameshop.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.psegameshop.com."
+JavaScript error: , line 0: uncaught exception: Timeout (o)
+1698411599337	Marionette	INFO	Stopped listening on port 62990
+JavaScript warning: https://www.psegameshop.com/wp-content/plugins/hurrytimer/assets/js/jquery.countdown.min.js?ver=2.2.0, line 22: Script terminated by timeout at:
+start/this.interval<@https://www.psegameshop.com/wp-content/plugins/hurrytimer/assets/js/jquery.countdown.min.js?ver=2.2.0:22:1987
+
+Dynamically enable window occlusion 1
+1698411659104	geckodriver	INFO	Listening on 127.0.0.1:63088
+1698411662149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilezFHjU9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698411662666	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698411662793	Marionette	INFO	Listening on port 63098
+Read port: 63098
+1698411663461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698411694834	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698411714819	Marionette	INFO	Stopped listening on port 63098
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/translations-identification-models getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1698411717870	geckodriver	INFO	Listening on 127.0.0.1:63139
+1698411720927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilew1U940"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698411721440	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698411721557	Marionette	INFO	Listening on port 63149
+Read port: 63149
+1698411722135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698411752096	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698412068472	Marionette	INFO	Stopped listening on port 63149
+Dynamically enable window occlusion 1
+1698412073070	geckodriver	INFO	Listening on 127.0.0.1:63202
+1698412076114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileKUdYU4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698412076612	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698412076733	Marionette	INFO	Listening on port 63212
+Read port: 63212
+1698412077385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/advanced-custom-fields/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=1698341141, line 2: ReferenceError: Color is not defined
+JavaScript error: https://www.psegameshop.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1698341141, line 1: ReferenceError: grecaptcha is not defined
+1698412107069	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.psegameshop.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.psegameshop.com."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY, line 434: Script terminated by timeout at:
+aa.qh@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:434:89
+get@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:432:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:432:87
+aa.Ek/c/<@https://www.googletagmanager.com/gtag/js?id=G-6N2Q9MKTQY:432:412
+
+1698412150118	Marionette	INFO	Stopped listening on port 63212
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
